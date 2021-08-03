@@ -129,6 +129,7 @@ The entire platform was primarily based on AWS and IBM Cloud services.
 NOTE: If you want to replicate this project you need to have an active account in IBM Cloud and AWS.
 
 [IBM Cloud Create Account](https://cloud.ibm.com/registration)
+
 [AWS Cloud Create Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
 
 ## DynamoDB:
