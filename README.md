@@ -40,9 +40,8 @@ WebPage: https://main.d2hwaxgzg1gprs.amplifyapp.com/
 
 It is a platform where you can buy authentic, socially responsible and 100% organic products, validated and tracked by blockchain.
 
-This is our submission for the call for code global challenge 2021 that aims to address the global challenge of hunger.
+We have in Mexico a problem related with hunger that comes from poor financial inclusion.
 
-Let’s go through the problem, which is very near to the team as it is in our own country.
 Mexico among a population of 127 Million has 28 of those suffering from hunger and 11 in extreme hunger. More than half which are from indigenous populations.
 
 <img src="https://i.ibb.co/NTrggwr/mexicohunger.png">
