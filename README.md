@@ -108,7 +108,7 @@ Thank you.
 ## DEMO:
 
 Video: Click on the image
-[![DEMO](./Images/logo.png)](PENDING!!!)
+[![DEMO](./Images/logo.png)](https://www.youtube.com/watch?v=gjweTv8eBds)
 
 ### From this point on you can find the technical documentation of the Project
 
