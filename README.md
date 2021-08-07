@@ -122,7 +122,7 @@ The entire platform was primarily based on AWS and IBM Cloud services.
 2. The database is read by the web page through an API Gateway, it executes a Python and NodeJs based Lambda Functions to perform the DB Query.[Details](#api-and-lambda)
 3. We embeded the chabot on the website through the IBM Web Chat integration as a scipt.[Details](#chatbot)
 4. The web page is deployed through a CI / CD cycle thanks to an AWS Amplify.[Details](#amplify-cicd)
-5. The page verifies the provenance of the products by reading the data in the Digital hain.[Details](#digitalbits-blockchain-integration)
+5. The page verifies the provenance of the products by reading the data in the Digital Bits Blockchain.[Details](#digitalbits-blockchain-integration)
 6. The application can check out the cart through the Rapyd APIs.[Details](#rapyd-integration)
 
 NOTE: If you want to replicate this project you need to have an active account in IBM Cloud and AWS.
@@ -250,7 +250,7 @@ Here we leave you the QR of one of the products so you can check it yourself.
 
 <img src="./Images/product.jpeg">
 
-Perhaps the most importants that we created an explorer for transactions, in order to visualize the api data delivered in JSON format to a more user-friendly format.
+Perhaps the most important part is that we created an explorer for transactions, in order to visualize the api data delivered in JSON format to a more user-friendly format.
 
 <img src="./Images/explorer.png">
 
@@ -270,4 +270,27 @@ As part of the Rapyd implementation we can easily select and add all the payment
 
 <img src="./Images/method.png">
 
+
+# References
+
+1 W3C, 2010 what is provenance https://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance 
+
+2 Lofty, What Is Provenance and Why Is It Important,
+https://www.lofty.com/pages/what-is-provenance-and-why-is-it-important#:~:text=Provenance%20is%20the%20history%20of%20the%20ownership%20and%20transmission%20of%20an%20object.&text=Experts%20are%20interested%20in%20the,that%20an%20item%20is%20authentic. 
+
+3 Provenance Proof https://www.provenanceproof.com/provenance-proof-blockchain 
+
+4 Business Wire, 2021 https://www.businesswire.com/news/home/20210401005352/en/Global-Craft-Beer-Market-Report-2021-Market-to-Reach-554.3-Billion-by-2027---U.S.-Market-is-Estimated-at-44.3-Billion-While-China-is-Forecast-to-Grow-at-24.2-CAGR---ResearchAndMarkets.com 
+
+5 Business Wire 2021
+https://www.businesswire.com/news/home/20200513005323/en/Global-Coffee-Market-2020-to-2024---Insights-Forecast-with-Potential-Impact-of-COVID-19---ResearchAndMarkets.com 
+
+
+6 PRN News Sire Far More Than Walmart China -- How VeChain Leads Blockchain Adoption in the Food Industry Around the Globe
+https://www.prnewswire.com/news-releases/far-more-than-walmart-china--how-vechain-leads-blockchain-adoption-in-the-food-industry-around-the-globe-301320495.html 
+
+7 VeChain Foundation, 2021, Walmart China Takes on Food Safety with VeChainThor Blockchain Technology
+https://medium.com/vechain-foundation/walmart-china-takes-on-food-safety-with-vechainthor-blockchain-technology-b1443e0e079c 
+8 Comunidades Fuertes, Territorios Vivos, UCIRI nos llama a valorar y a consumir el café campesino y justo
+https://www.ccmss.org.mx/uciri-nos-llama-a-valorar-y-a-consumir-el-cafe-campesino-y-justo/
 
