@@ -122,7 +122,7 @@ The entire platform was primarily based on AWS and IBM Cloud services.
 2. The database is read by the web page through an API Gateway, it executes a Python and NodeJs based Lambda Functions to perform the DB Query.[Details](#api-and-lambda)
 3. We embeded the chabot on the website through the IBM Web Chat integration as a scipt.[Details](#chatbot)
 4. The web page is deployed through a CI / CD cycle thanks to an AWS Amplify.[Details](#amplify-cicd)
-5. The page verifies the provenance of the products by reading the data in the Solana blockchain.[Details](#digitalbits-blockchain-integration)
+5. The page verifies the provenance of the products by reading the data in the Digital hain.[Details](#digitalbits-blockchain-integration)
 6. The application can check out the cart through the Rapyd APIs.[Details](#rapyd-integration)
 
 NOTE: If you want to replicate this project you need to have an active account in IBM Cloud and AWS.
@@ -232,7 +232,7 @@ Reading and writing on the blockchain is done through the DigitalBits API.
 
 https://frontier.testnet.digitalbits.io/
 
-This section of the page has 4 fundamental sections.
+This section of the page has 4 fundamental parts.
 
 - The QR code scanner.
 
@@ -250,7 +250,7 @@ Here we leave you the QR of one of the products so you can check it yourself.
 
 <img src="./Images/product.jpeg">
 
-Algo mucho mas importante es que creamos un explorer para las transacciones, con el fin de visualizar la data de la api entregada en formato JSON a un formato mas amigable para los usuarios.
+Perhaps the most importants that we created an explorer for transactions, in order to visualize the api data delivered in JSON format to a more user-friendly format.
 
 <img src="./Images/explorer.png">
 
