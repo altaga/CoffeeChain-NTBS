@@ -11,7 +11,7 @@ WebPage: https://main.d2hwaxgzg1gprs.amplifyapp.com/
 
 #### Click here to watch our demo video:
 
-[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](PENDING!!!)
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://www.youtube.com/watch?v=gjweTv8eBds)
 
 
 <details>
@@ -38,7 +38,7 @@ WebPage: https://main.d2hwaxgzg1gprs.amplifyapp.com/
 
 # Welcome to Coffee Chain:
 
-It is a platform where you can buy authentic, socially responsible and 100% organic products, validated and tracked by blockchain.
+Coffee Chain is a platform where you can buy authentic, socially responsible and 100% organic products, validated and tracked by blockchain.
 
 We have in Mexico a problem related with hunger that comes from poor financial inclusion.
 
