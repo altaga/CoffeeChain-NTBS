@@ -40,6 +40,8 @@ WebPage: https://main.d2hwaxgzg1gprs.amplifyapp.com/
 
 </details>
 
+# Whitepaper
+
 # Welcome to Coffee Chain:
 
 Coffee Chain is a platform where you can buy authentic, socially responsible and 100% organic products, validated and tracked by blockchain.
