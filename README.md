@@ -9,6 +9,10 @@
 
 WebPage: https://main.d2hwaxgzg1gprs.amplifyapp.com/
 
+#### Scan a product with this QR:
+
+<img src="./Images/product.jpeg">
+
 #### Click here to watch our demo video:
 
 [<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://www.youtube.com/watch?v=gjweTv8eBds)
