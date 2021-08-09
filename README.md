@@ -315,3 +315,4 @@ https://medium.com/vechain-foundation/walmart-china-takes-on-food-safety-with-ve
 8 Comunidades Fuertes, Territorios Vivos, UCIRI nos llama a valorar y a consumir el café campesino y justo
 https://www.ccmss.org.mx/uciri-nos-llama-a-valorar-y-a-consumir-el-cafe-campesino-y-justo/
 
+9 https://www.transparencymarketresearch.com/organic-coffee-market.html
