@@ -107,6 +107,14 @@ More on obio:
 
 https://www.obioorganico.com/obio-y-asociados/
 
+# Market
+
+<img src="https://i.ibb.co/fD9WHsH/Slide17.png">
+
+# Business Model
+
+<img src="https://i.ibb.co/tz8sppr/Slide18.png">
+
 # Validation
 
 <img src="https://i.ibb.co/5h78njw/Slide19.png">
