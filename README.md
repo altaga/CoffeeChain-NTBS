@@ -234,9 +234,10 @@ The website can read the data directly from the DigitalBits Testnet blockchain t
 
 <img src="./Images/digitalb.png">
 
-Reading and writing on the blockchain is done through the DigitalBits API.
+Reading and writing on the blockchain is done through the DigitalBits API and JS DigitalBits SDK.
 
 https://frontier.testnet.digitalbits.io/
+https://github.com/DigitalBitsOrg/js-digitalbits-sdk
 
 This section of the page has 4 fundamental parts.
 
