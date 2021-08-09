@@ -17,6 +17,12 @@ WebPage: https://main.d2hwaxgzg1gprs.amplifyapp.com/
 
 [<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://www.youtube.com/watch?v=gjweTv8eBds)
 
+#### Socials
+
+Twitter: https://twitter.com/CoffeeChainMP?s=08
+
+Facebook: https://www.facebook.com/Coffee-Chain-100799265614831/
+
 
 <details>
   <summary>INDEX Click Here</summary>
